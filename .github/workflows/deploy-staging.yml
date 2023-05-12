@@ -9,8 +9,8 @@ env:
   ###############################################
   ### Replace <username> with GitHub username ###
   ###############################################
-  DOCKER_IMAGE_NAME: Gerardo-GB -azure-ttt
-  AZURE_WEBAPP_NAME: Gerardo-GB -ttt-app
+  DOCKER_IMAGE_NAME: Gerardo-GB-azure-ttt
+  AZURE_WEBAPP_NAME: Gerardo-GB-ttt-app
   ###############################################
 
 jobs:
